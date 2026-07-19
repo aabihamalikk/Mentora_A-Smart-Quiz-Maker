@@ -1,0 +1,22 @@
+Aizaz Akmal
+30
+M
+PF
+teacher@gmail.com
+t1
+123
+Nadeem Iqbal
+32
+M
+AICT
+teacher@gmail.com
+t2
+123
+Hamna Naheed
+27
+F
+Calculus
+teacher@gmail.com
+t3
+123
+
