@@ -1,0 +1,32 @@
+Amina Asif
+18
+F
+Sapphire
+Not assigned!
+CS
+s1
+123
+Abiha Malik
+18
+F
+Ruby
+Not assigned!
+CS
+s2
+123
+Ahmad Ali
+18
+M
+Emerald
+Not assigned!
+CS
+s3
+123
+ali
+19
+M
+Sapphire
+Not Assigned
+cs
+s4
+123
